@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=50F71A&background=536CFF00&width=435&lines=Hello!+My+name+is+Dangy)](https://git.io/typing-svg)
-https://raw.githubusercontent.com/DANGERousM11/DANGERousM11/1a111ee0a9f47f1ec4e17054531b03fe6bf2e49a/header.png
+![image](https://github.com/DANGERousM11/DANGERousM11/assets/134717047/b7680ba5-cce9-47db-ab58-8c4f740074aa)
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
